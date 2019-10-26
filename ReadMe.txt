@@ -1,0 +1,1 @@
+This is a web UI automation summary for robotframework
